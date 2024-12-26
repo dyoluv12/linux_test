@@ -1,2 +1,2 @@
 # linux_test
-linux test
+리눅스 연습해보기
